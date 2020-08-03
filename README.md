@@ -50,6 +50,6 @@ class Ambitions extends React.Component<Moi, maVille> {
   - :octocat: [Mes repos](https://github.com/booleans-oss/)
   - Si vous avez des questions ou des demandes, n'hésitez pas à me demander 😇Je suis à votre écoute.
 
-![Booleans' github stats](https://github-readme-stats.vercel.app/api?username=booleans_oss&show_icons=true&hide=[%22issues%22])
+![Booleans' github stats](https://github-readme-stats.vercel.app/api?username=booleans-oss&show_icons=true&hide=[%22issues%22])
  
  
