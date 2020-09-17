@@ -1,53 +1,50 @@
-<h2> Hey, Booleans here! 👋</h2>
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<h1> Hi there..! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
 
-Bienvenue dans la taverne de la technologie. J'essaie de m'enfuir de la Matrix, avec la pillule bleue depuis un moment, mais je n'y arrive toujours pas. Tu peux m'aider ?
+<!--
+**piyushP7pravin/piyushP7pravin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## :computer: Domaines technologiques captivants
-* Flutter
-* Machine Learning
-* Data Science
-* Frontend and Backend Web Development
+Here are some ideas to get you started:
+-->
+**🔭 I’m currently working on my <a href="https://www.piyushp7pravin.tech/"><b>Portfolio Website</b> </a> and Twitter Sentiment Analysis Project**<br>
+**🌱 I’m currently learning Front-end Development and Deep Learning**
+<br>
+<br>
+**✨ Tech stacks currently using** <br>
+<br>
+<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+<code><a href="https://www.sqlite.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
+<code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
+<code><a href="https://www.mongodb.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
+<code><a href="https://www.typescriptlang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></a></code>
+<code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
+<code><a href="https://nuxtjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg"></a></code>
+<br>
+<br>
+<br>
+**🌱 Looking forward to learn:** <br>
+<br>
+<code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
+<code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg"></a></code>
+<br>
+<br>
+<br>
+**💬 Ask me about anything, I'll be happy to help!** <br>
+**💬 My inbox is always open, Contact me**
+<br>
+<br> 
+  <a href="mailto:ztafade@gmail.com">
+    <img align="left" alt="Booleans | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
+  </a>
+  <a href="https://twitter.com/LeNihil">
+    <img align="left" alt="Piyush Booleans | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
+  </a>
+<br>
+<br>
 
-## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png' width='30'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
- 
- ## Qui suis-je ?
- ```typescript
-interface Moi = {
-  // petite introduction pour tout le monde
-    user: Booleans;
-    level: Junior;
-    hoobies: [
-        Développement,
-        Réfléchir,
-        Apprendre,
-        Construire,
-        Résoudre
-        Penser
-    ]
-};
-function maVille(location: string) {
-    return 'Afrique du Sud';
-}
-class Ambitions extends React.Component<Moi, maVille> {
-  FinishMyProjects()
-  LearningNewLanguages()
-  Enjoying()
-    // Et bien plus encore
-}
- ```
- 
-## Projets actuels
- * En ce moment, je bosse sur 🔭 développer une **rest-API avec GraphQL** et continue de travailler, de m'entraîner pour parfaire mes compétences 🌱 en **Competitive Programming**.
- * Aussi, je propose un  **Bot Discord, [@Discord.js](https://discord.com/oauth2/authorize?client_id=463202426288209920&scope=bot)** qui délivre la documentation ``@discord.js``. N'hésitez pas à l'ajouter pour bénéficier de ses commandes, ainsi que des cours 📂pour apprendre *le Javascript* et le module *@discord.js*.
- 
-## Autre
-  - :octocat: [Mes repos](https://github.com/booleans-oss/)
-  - Si vous avez des questions ou des demandes, n'hésitez pas à me demander 😇Je suis à votre écoute.
+⭐️ From [booleans-oss](https://github.com/[username])
 
-![Booleans' github stats](https://github-readme-stats.vercel.app/api?username=booleans-oss&show_icons=true&hide=[%22issues%22])
- 
- 
+
