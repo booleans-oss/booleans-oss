@@ -1,2 +1,2 @@
-![Banner](https://cdn.discordapp.com/attachments/692362952078262403/943060532934639656/Frame_1-2.png)
+![Banner](https://clementlbn.com/en/opengraph-image?00bd5fd2e53291c9)
 ![Snake](./github-user-contribution.svg)
